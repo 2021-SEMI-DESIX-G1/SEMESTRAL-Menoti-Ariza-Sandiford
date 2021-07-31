@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+header {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    width: 100%;
+    height: 35%;
+    background-color: #f1f1f1;
+}
+
+.small-header {
+    height: auto;
+}
+
+.title-container {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.google-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    width: 99%;
+    border-radius: 10px;
+    
+}
+
+.logo {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.8rem;
+    font-weight: 400;
+}.svg-logo {
+    width: 20px;
+    margin-bottom: 5px;
+}
+
+.description-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+.topnav {
+    
+      width: 100%;
+      min-width: 230px;
+      max-width: 5000px;
+      position: relative;
+      height: auto;
+      min-height: 300px;
+      max-height: 500px;
+      border-radius: 10px;
+      overflow: hidden;
+      background-image: linear-gradient(to bottom right, #D45BA1, #A784E0);
+  }
+  .banner_img {
+      max-width : 5000px;
+      width: 100%;
+      height:100%;
+      position: absolute;
+      top:0;
+      display: block;
+      left: 0;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .banner_img, .google-container {
+    position: absolute;
+}
+  

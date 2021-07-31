@@ -1,0 +1,22 @@
+.container-products {
+    width: 100%;
+    background-image: linear-gradient(to bottom right, #D45BA1, #A784E0);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-around;
+}
+.btn-cart {
+    background: none;
+    cursor: pointer;
+    width: 5.4rem;
+    position: relative;
+    top: -217px;
+    left: 146px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    border-radius: 10px;
+}.btn-cart:hover {
+    width: 5.6rem;
+}

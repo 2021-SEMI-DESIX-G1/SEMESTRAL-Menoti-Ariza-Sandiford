@@ -1,0 +1,15 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-color:#E6E6E6;
+    color: #424242;
+    font-size: .9rem;
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align:justify;
+    background-image: linear-gradient(to bottom right, #D45BA1, #A784E0);
+}
+
+a{
+   color: #E6E6E6;
+}

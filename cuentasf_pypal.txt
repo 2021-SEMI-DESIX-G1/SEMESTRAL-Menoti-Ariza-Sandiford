@@ -1,0 +1,10 @@
+https://www.sandbox.paypal.com/myaccount/summary
+
+Credenciales:
+username: sb-vpduh3130323@business.example.com 
+password: 9&^nm]zQ
+
+Alternativa Credenciales
+
+user: sb-iecmc6989916@personal.example.com
+pass: 0pK1ae>Q
